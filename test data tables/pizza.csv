@@ -1,5 +1,5 @@
-,Pepperoni,Hawaiian,Chicken ranch,Margarita
-Cheese,True,True,True,True
-Sausages,True,True,True,True
-Chicken,True,True,True,True
-Tomatoes,True,True,True,True
+,Cheese,Sausages,Chicken,Tomatoes
+Pepperoni,True,True,False,True
+Hawaiian,True,False,True,False
+Chicken ranch,True,True,True,True
+Margarita,True,False,False,True
