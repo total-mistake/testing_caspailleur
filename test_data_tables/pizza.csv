@@ -1,5 +1,7 @@
 ,Cheese,Sausages,Chicken,Tomatoes
 Pepperoni,True,True,False,True
 Hawaiian,True,False,True,False
-Chicken ranch,True,True,True,True
+Chicken ranch,True,False,True,True
 Margarita,True,False,False,True
+Chorizo,True,True,False,False
+Pesto,True,False,True,True
