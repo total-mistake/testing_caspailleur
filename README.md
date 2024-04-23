@@ -16,7 +16,7 @@ git clone https://github.com/total-mistake/testing_caspailleur
 ### **2. Install dependencies** 
 Run the following command to install all required dependencies from the requirements.txt file:
 ```console
-pip install -r requirements.txt
+pip install -r 'testing_caspailleur/BDD testing Caspailleur/requirements.txt'
 ```
 
 ### **3. Run the tests**
