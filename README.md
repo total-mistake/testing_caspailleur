@@ -7,19 +7,19 @@ This is part of the student work for the Project Activities (Testing) course. Th
 - **features\steps**: a directory with python files that define script steps in featute.
 
 ## Installation and startup
-**1. Clone the repository** 
+###**1. Clone the repository** 
 Use the git clone command to clone the repository to your computer:
 ```console
 git clone https://github.com/total-mistake/testing_caspailleur
 ```
 
-**2. Install dependencies** 
+###**2. Install dependencies** 
 Run the following command to install all required dependencies from the requirements.txt file:
 ```console
 pip install -r requirements.txt
 ```
 
-**3. Run the tests**
+###**3. Run the tests**
 To run all BDD tests use this command in terminal:
 ```console
 behave
